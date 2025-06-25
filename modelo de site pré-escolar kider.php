@@ -48,7 +48,7 @@
 
         <!-- Navbar Start -->
         <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0" style="top: -100px;">
-            <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/index.html"
+            <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/index.php"
                 class="navbar-brand">
                 <h1 class="m-0 text-primary">Superar Reforço Escolar</h1>
             </a>
@@ -57,25 +57,25 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav mx-auto">
-                    <a href="Kider Free Website Template - Free-CSS.com/preschool-website-template/about.html"
+                    <a href="Kider Free Website Template - Free-CSS.com/preschool-website-template/about.php"
                         class="nav-item nav-link">Sobre Nós</a>
                     <a id="aulas"
-                        href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/classes.html"
+                        href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/classes.php"
                         class="nav-item nav-link">Aulas</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link" data-bs-toggle="dropdown">Páginas</a>
                         <div class="dropdown-menu rounded-0 rounded-bottom border-0 shadow-sm m-0">
-                            <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/facility.html"
+                            <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/facility.php"
                                 class="dropdown-item">Instalações Escolares</a>
-                            <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/appointment.html"
+                            <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/appointment.php"
                                 class="dropdown-item">Marcar Consulta</a>
-                            <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/testimonial.html"
+                            <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/testimonial.php"
                                 class="dropdown-item">Depoimento</a>
-                            <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/404.html"
+                            <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/404.php"
                                 class="dropdown-item">404 Error</a>
                         </div>
                     </div>
-                    <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/contact.html"
+                    <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/contact.php"
                         class="nav-item nav-link">Contate-nos</a>
                 </div>
                 <a href="fotos.htm" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Fotos</a>
