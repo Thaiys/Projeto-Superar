@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Kider - Preschool Website Template</title>
+    <title>Superar - modelo de site pré-escolar </title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -36,7 +36,7 @@
         <!-- Spinner Start -->
         <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
             <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
-                <span class="sr-only">Loading...</span>
+                <span class="sr-only">Carregando...</span>
             </div>
         </div>
         <!-- Spinner End -->
@@ -52,23 +52,23 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav mx-auto">
-                    <a href="index.php" class="nav-item nav-link">Home</a>
-                    <a href="about.php" class="nav-item nav-link">About Us</a>
-                    <a href="classes.php" class="nav-item nav-link">Classes</a>
+                    <a href="index.php" class="nav-item nav-link">Lar</a>
+                    <a href="about.php" class="nav-item nav-link">Sobre nós</a>
+                    <a href="classes.php" class="nav-item nav-link">Aulas</a>
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Páginas</a>
                         <div class="dropdown-menu rounded-0 rounded-bottom border-0 m-0">
-                            <a href="facility.php" class="dropdown-item">School Facilities</a>
-                            <a href="team.php" class="dropdown-item">Popular Teachers</a>
-                            <a href="call-to-action.php" class="dropdown-item">Become A Teachers</a>
-                            <a href="appointment.php" class="dropdown-item">Make Appointment</a>
-                            <a href="testimonial.php" class="dropdown-item">Testimonial</a>
+                            <a href="facility.php" class="dropdown-item">Instalações Escolares</a>
+                            <a href="team.php" class="dropdown-item">Professores Populares</a>
+                            <a href="call-to-action.php" class="dropdown-item">Torne-se um professor</a>
+                            <a href="appointment.php" class="dropdown-item">Marque uma consulta</a>
+                            <a href="testimonial.php" class="dropdown-item">Depoimento</a>
                             <a href="404.php" class="dropdown-item">404 Error</a>
                         </div>
                     </div>
-                    <a href="contact.php" class="nav-item nav-link active">Contact Us</a>
+                    <a href="contact.php" class="nav-item nav-link active">Contate-nos</a>
                 </div>
-                <a href="" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Join Us<i class="fa fa-arrow-right ms-3"></i></a>
+                <a href="" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Junte-se a nós<i class="fa fa-arrow-right ms-3"></i></a>
             </div>
         </nav>
         <!-- Navbar End -->
@@ -176,10 +176,10 @@
             <div class="container py-5">
                 <div class="row g-5">
                     <div class="col-lg-3 col-md-6">
-                        <h3 class="text-white mb-4">Get In Touch</h3>
-                        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                        <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                        <h3 class="text-white mb-4">Entre em contato</h3>
+                        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Rua Minas Gerais,Numero 2.578,Corumbá-MS, Brasil</p>
+                        <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+067 99283 3104</p>
+                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>jacianeleiva@hotmail.com</p>
                         <div class="d-flex pt-2">
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
@@ -196,7 +196,7 @@
                         <a class="btn btn-link text-white-50" href="">Terms & Condition</a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <h3 class="text-white mb-4">Photo Gallery</h3>
+                        <h3 class="text-white mb-4">Galeria de fotos</h3>
                         <div class="row g-2 pt-2">
                             <div class="col-4">
                                 <img class="img-fluid rounded bg-light p-1" src="img/classes-1.jpg" alt="">
