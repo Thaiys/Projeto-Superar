@@ -57,7 +57,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav mx-auto">
-                    <a href="Kider Free Website Template - Free-CSS.com/preschool-website-template/about.php"
+                    <a href="https://www.canva.com/design/DAGpoF0lNA8/VjIbdlKqwFR3zOBYRJo7Eg/edit?utm_content=DAGpoF0lNA8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton""
                         class="nav-item nav-link">Sobre Nós</a>
                     <a id="aulas"
                         href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/classes.php"
