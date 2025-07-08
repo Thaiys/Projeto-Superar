@@ -62,19 +62,6 @@
                     <a id="aulas"
                         href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/classes.php"
                         class="nav-item nav-link">Aulas</a>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link" data-bs-toggle="dropdown">Páginas</a>
-                        <div class="dropdown-menu rounded-0 rounded-bottom border-0 shadow-sm m-0">
-                            <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/facility.php"
-                                class="dropdown-item">Instalações Escolares</a>
-                            <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/appointment.php"
-                                class="dropdown-item">Marcar Consulta</a>
-                            <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/testimonial.php"
-                                class="dropdown-item">Depoimento</a>
-                            <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/404.php"
-                                class="dropdown-item">404 Error</a>
-                        </div>
-                    </div>
                     <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/contact.php"
                         class="nav-item nav-link">Contate-nos</a>
                 </div>
