@@ -54,16 +54,7 @@
                 <div class="navbar-nav mx-auto">
                     <a href="index.php" class="nav-item nav-link">lar</a>
                     <a href="about.php" class="nav-item nav-link active">sobre nós</a>
-                    <a href="classes.php" class="nav-item nav-link">Classes</a>
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">páginas</a>
-                        <div class="dropdown-menu rounded-0 rounded-bottom border-0 shadow-sm m-0">
-                            <a href="facility.php" class="dropdown-item">Instalações escolares</a>
-                            <a href="call-to-action.php" class="dropdown-item">Torne-se um professor</a>
-                            <a href="appointment.php" class="dropdown-item">Marque uma consulta</a>
-                            <a href="testimonial.php" class="dropdown-item">Depoimento</a>
-                            <a href="404.php" class="dropdown-item">Erro 404</a>
-                        </div>
                     </div>
                     <a href="contact.php" class="nav-item nav-link">Contate-nos</a>
                 </div>
@@ -94,8 +85,12 @@
             <div class="container">
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <h1 class="mb-4">Saiba mais sobre nosso trabalho e nossas atividades culturais</h1>
-                        <p>Um projeto de reforço escolar com atividades
+                        <h1 class="mb-4"> Saiba mais sobre nosso trabalho e nossas atividades culturais</h1>
+                        <p>QUEM SOMOS? 
+                            A Empresa é prestadora de serviços 
+                            educacionais de público infantil de 
+                            nível básico escolar de 1° ao 6° ano. 
+                            Um projeto de reforço escolar com atividades
                             culturais pode ter como objetivo melhorar o desempenho escolar dos
                             alunos,
                             ao mesmo tempo em que promove o
@@ -135,39 +130,13 @@
                 </div>
             </div>
         </div>
-        <!-- About End -->
-
-
-        <!-- Call To Action Start -->
-        <div class="container-xxl py-5">
-            <div class="container">
-                <div class="bg-light rounded">
-                    <div class="row g-0">
-                        <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s" style="min-height: 400px;">
-                            <div class="position-relative h-100">
-                                <img class="position-absolute w-100 h-100 rounded" src="img/call-to-action.jpg" style="object-fit: cover;">
-                            </div>
-                        </div>
-                        <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                            <div class="h-100 d-flex flex-column justify-content-center p-5">
-                                <h1 class="mb-4">Torne-se um professor</h1>
-                                <p class="mb-4">Para se tornar um professor de reforço escolar,<br/>
-                                     você pode seguir um caminho que envolve qualificação, formalização e divulgação do seu serviço.</p>
-                                <a class="btn btn-primary py-3 px-5" href="https://www.superprof.com.br/blog/acompanhamento-pedagogico-estudantil/">Comece agora<i class="fa fa-arrow-right ms-2"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
         <div class="container-fluid bg-dark text-white-50 footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
             <div class="container py-5">
                 <div class="row g-5">
                     <div class="col-lg-3 col-md-6">
                         <h3 class="text-white mb-4">Entre em contato</h3>
-                        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                        <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Redes Sociais: www.instagram.com</p>
+                        <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>Suporte via WhatsApp:</p>
                         <div class="d-flex pt-2">
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
