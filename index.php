@@ -60,12 +60,14 @@
                     <a href="about.php"
                         class="nav-item nav-link">Sobre Nós</a>
                     <a id="aulas"
-                        href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/classes.php"
+                        href="classes.php"
                         class="nav-item nav-link">Aulas</a>
-                    <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/contact.php"
+                    <a href="contact.php"
                         class="nav-item nav-link">Contate-nos</a>
+                    <a href="fotos.php"
+                        class="nav-item nav-link">Fotos</a>
                 </div>
-                <a href="fotos.htm" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Fotos</a>
+                <a href="cadastro.php" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Cadastro</a>
             </div>
         </nav>
         
