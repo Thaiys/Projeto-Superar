@@ -65,7 +65,7 @@
                     <a href="file:///C:/Users/corlab202/Downloads/Kider%20Free%20Website%20Template%20-%20Free-CSS.com/preschool-website-template/contact.php"
                         class="nav-item nav-link">Contate-nos</a>
                 </div>
-                <a href="fotos.htm" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Fotos</a>
+                <a href="fotos.php" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Fotos</a>
             </div>
         </nav>
         
