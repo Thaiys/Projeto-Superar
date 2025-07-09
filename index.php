@@ -57,7 +57,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav mx-auto">
-                    <a href="about.php"
+                    <a href="https://drive.google.com/file/d/1E_dyn_kD9AqjfhoY0663QJ4CRfdUMSbq/view?usp=sharing""
                         class="nav-item nav-link">Sobre Nós</a>
                     <a id="aulas"
                         href="classes.php"
