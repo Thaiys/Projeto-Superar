@@ -1,3 +1,17 @@
+<?php
+session_start();
+
+// Verifica se o usuário está logado
+if (isset($_SESSION['usuario'])) {
+    echo $_SESSION['usuario']; // Mostra o nome do usuário
+} else {
+    // Se quiser, pode apenas não redirecionar, mostrar uma mensagem, ou outra lógica
+    echo "Usuário não está logado.";
+    // Se tiver um redirecionamento antigo aqui, remova-o ou comente-o
+    // header("Location: login.php");
+    // exit();
+}
+?>
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -68,7 +82,7 @@
                     <a href="fotos.php"
                         class="nav-item nav-link">Fotos</a>
                 </div>
-                <a href="login.php" class="btn btn-primary rounded-pill px-3 d-none d-lg-block"><?php echo $_SESSION['usuario']; ?>Login</a>
+                <a href="login.php" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Login</a>
             </div>
                 <a href="cadastro.php" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Cadastro</a>
             </div>
