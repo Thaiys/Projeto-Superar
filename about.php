@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Kider - Preschool Website Template</title>
+    <title>Superar Reforço Escolar</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -52,13 +52,13 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav mx-auto">
-                    <a href="index.php" class="nav-item nav-link">lar</a>
+                    <a href="index.php" class="nav-item nav-link">Home</a>
                     <a href="about.php" class="nav-item nav-link active">sobre nós</a>
                     <div class="nav-item dropdown">
                     </div>
                     <a href="contact.php" class="nav-item nav-link">Contate-nos</a>
                 </div>
-                <a href="https://lumiarapoiopsicopedagogico.com.br/courses/reforco-terapeutico/" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Junte-se a nós<i class="fa fa-arrow-right ms-3"></i></a>
+                <a href="https://lumiarapoiopsicopedagogico.com.br/courses/reforco-terapeutico/" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Login<i class="fa fa-arrow-right ms-3"></i></a>
             </div>
         </nav>
         <!-- Navbar End -->

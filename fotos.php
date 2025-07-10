@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
-    <title>Kider - Preschool Website Template</title>
+    <title>Superar Reforço Escolar</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -431,9 +431,9 @@
                 <div class="row g-5">
                     <div class="col-lg-3 col-md-6">
                         <h3 class="text-white mb-4">Entre em contato </h3>
-                        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, Nova York, EUA </p>
-                        <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Rua Minas Gerais, n. 2578, Brasil </p>
+                        <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+055 67 99283-3104</p>
+                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>jacianeleiva@hotmail.com</p>
                         <div class="d-flex pt-2">
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
