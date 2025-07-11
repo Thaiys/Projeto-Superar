@@ -58,7 +58,6 @@
                     </div>
                     <a href="contact.php" class="nav-item nav-link">Contate-nos</a>
                 </div>
-                <a href="https://lumiarapoiopsicopedagogico.com.br/courses/reforco-terapeutico/" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Login<i class="fa fa-arrow-right ms-3"></i></a>
             </div>
         </nav>
         <!-- Navbar End -->
@@ -105,10 +104,7 @@
                             </div>
                             <div class="col-sm-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="rounded-circle flex-shrink-0" src="img/user.jpg" alt="" style="width: 45px; height: 45px;">
                                     <div class="ms-3">
-                                        <h6 class="text-primary mb-1">Jhon Doe</h6>
-                                        <small>CEO & Founder</small>
                                     </div>
                                 </div>
                             </div>

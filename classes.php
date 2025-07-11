@@ -66,8 +66,6 @@
                     </div>
                     <a href="contact.php" class="nav-item nav-link">Contate-nos</a>
                 </div>
-                <a href="" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Login<i class="fa fa-arrow-right ms-3"></i></a>
-            </div>
         </nav>
         <!-- Navbar End -->
 
@@ -106,13 +104,9 @@
                                 <a class="d-block text-center h3 mt-3 mb-4" href="">Arte e Desenho</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
-                                        <img class="rounded-circle flex-shrink-0" src="img/user.jpg" alt="" style="width: 45px; height: 45px;">
                                         <div class="ms-3">
-                                            <h6 class="text-primary mb-1">Jhon Doe</h6>
-                                            <small>Professor</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -146,13 +140,9 @@
                                 <a class="d-block text-center h3 mt-3 mb-4" href="">Gerenciamento de cores</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
-                                        <img class="rounded-circle flex-shrink-0" src="img/user.jpg" alt="" style="width: 45px; height: 45px;">
                                         <div class="ms-3">
-                                            <h6 class="text-primary mb-1">Jhon Doe</h6>
-                                            <small>Professor</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -186,13 +176,9 @@
                                 <a class="d-block text-center h3 mt-3 mb-4" href="">Atlético e Dança</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
-                                        <img class="rounded-circle flex-shrink-0" src="img/user.jpg" alt="" style="width: 45px; height: 45px;">
                                         <div class="ms-3">
-                                            <h6 class="text-primary mb-1">Jhon Doe</h6>
-                                            <small>Professor</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -226,13 +212,9 @@
                                 <a class="d-block text-center h3 mt-3 mb-4" href="">Linguagem e conversação</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
-                                        <img class="rounded-circle flex-shrink-0" src="img/user.jpg" alt="" style="width: 45px; height: 45px;">
                                         <div class="ms-3">
-                                            <h6 class="text-primary mb-1">Jhon Doe</h6>
-                                            <small>Professor</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -266,13 +248,9 @@
                                 <a class="d-block text-center h3 mt-3 mb-4" href="">Religião e História</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
-                                        <img class="rounded-circle flex-shrink-0" src="img/user.jpg" alt="" style="width: 45px; height: 45px;">
                                         <div class="ms-3">
-                                            <h6 class="text-primary mb-1">Jhon Doe</h6>
-                                            <small>Professor</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -306,13 +284,9 @@
                                 <a class="d-block text-center h3 mt-3 mb-4" href="">Conhecimento Geral</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
-                                        <img class="rounded-circle flex-shrink-0" src="img/user.jpg" alt="" style="width: 45px; height: 45px;">
                                         <div class="ms-3">
-                                            <h6 class="text-primary mb-1">Jhon Doe</h6>
-                                            <small>Professor</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">

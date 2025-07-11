@@ -67,8 +67,6 @@
                     </div>
                     <a href="contact.php" class="nav-item nav-link active">Contate-nos</a>
                 </div>
-                <a href="" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Login<i class="fa fa-arrow-right ms-3"></i></a>
-            </div>
         </nav>
         <!-- Navbar End -->
 

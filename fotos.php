@@ -118,12 +118,7 @@
                             </div>
                             <div class="col-sm-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="rounded-circle flex-shrink-0"
-                                        src="modelo%20de%20site%20pr%C3%A9-escolar%20kider_arquivos/user.jpg" alt=""
-                                        style="width: 45px; height: 45px;">
                                     <div class="ms-3">
-                                        <h6 class="text-primary mb-1">Jhon Doe</h6>
-                                        <small>CEO &amp; Founder</small>
                                     </div>
                                 </div>
                             </div>
@@ -169,15 +164,9 @@
                                 <a class="d-block text-center h3 mt-3 mb-4" href="">Arte &amp; Desenho</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
-                                        <img class="rounded-circle flex-shrink-0"
-                                            src="modelo%20de%20site%20pr%C3%A9-escolar%20kider_arquivos/user.jpg" alt=""
-                                            style="width: 45px; height: 45px;">
                                         <div class="ms-3">
-                                            <h6 class="text-primary mb-1">Jhon Doe</h6>
-                                            <small>Professor</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -213,15 +202,9 @@
                                 <a class="d-block text-center h3 mt-3 mb-4" href="">Gerenciamento de Cores</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
-                                        <img class="rounded-circle flex-shrink-0"
-                                            src="modelo%20de%20site%20pr%C3%A9-escolar%20kider_arquivos/user.jpg" alt=""
-                                            style="width: 45px; height: 45px;">
                                         <div class="ms-3">
-                                            <h6 class="text-primary mb-1">Jhon Doe</h6>
-                                            <small>Professor</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -257,15 +240,9 @@
                                 <a class="d-block text-center h3 mt-3 mb-4" href="">Atlética &amp; Dança</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
-                                        <img class="rounded-circle flex-shrink-0"
-                                            src="modelo%20de%20site%20pr%C3%A9-escolar%20kider_arquivos/user.jpg" alt=""
-                                            style="width: 45px; height: 45px;">
                                         <div class="ms-3">
-                                            <h6 class="text-primary mb-1">Jhon Doe</h6>
-                                            <small>Professor</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -301,15 +278,9 @@
                                 <a class="d-block text-center h3 mt-3 mb-4" href="">Lingua &amp; Falando</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
-                                        <img class="rounded-circle flex-shrink-0"
-                                            src="modelo%20de%20site%20pr%C3%A9-escolar%20kider_arquivos/user.jpg" alt=""
-                                            style="width: 45px; height: 45px;">
                                         <div class="ms-3">
-                                            <h6 class="text-primary mb-1">Jhon Doe</h6>
-                                            <small>Professor</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -345,15 +316,9 @@
                                 <a class="d-block text-center h3 mt-3 mb-4" href="">Religião &amp; História</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
-                                        <img class="rounded-circle flex-shrink-0"
-                                            src="modelo%20de%20site%20pr%C3%A9-escolar%20kider_arquivos/user.jpg" alt=""
-                                            style="width: 45px; height: 45px;">
                                         <div class="ms-3">
-                                            <h6 class="text-primary mb-1">Jhon Doe</h6>
-                                            <small>Professor</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -389,15 +354,9 @@
                                 <a class="d-block text-center h3 mt-3 mb-4" href="">Conhecimento Geral</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
-                                        <img class="rounded-circle flex-shrink-0"
-                                            src="modelo%20de%20site%20pr%C3%A9-escolar%20kider_arquivos/user.jpg" alt=""
-                                            style="width: 45px; height: 45px;">
                                         <div class="ms-3">
-                                            <h6 class="text-primary mb-1">Jhon Doe</h6>
-                                            <small>Professor</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">

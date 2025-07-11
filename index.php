@@ -1,17 +1,3 @@
-<?php
-session_start();
-
-// Verifica se o usuário está logado
-if (isset($_SESSION['usuario'])) {
-    echo $_SESSION['usuario']; // Mostra o nome do usuário
-} else {
-    // Se quiser, pode apenas não redirecionar, mostrar uma mensagem, ou outra lógica
-    echo "Usuário não está logado.";
-    // Se tiver um redirecionamento antigo aqui, remova-o ou comente-o
-    // header("Location: login.php");
-    // exit();
-}
-?>
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -72,7 +58,7 @@ if (isset($_SESSION['usuario'])) {
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav mx-auto">
-                    <a href="https://drive.google.com/file/d/1E_dyn_kD9AqjfhoY0663QJ4CRfdUMSbq/view?usp=sharing""
+                    <a href="about.php"
                         class="nav-item nav-link">Sobre Nós</a>
                     <a id="aulas"
                         href="classes.php"
@@ -81,12 +67,7 @@ if (isset($_SESSION['usuario'])) {
                         class="nav-item nav-link">Contate-nos</a>
                     <a href="fotos.php"
                         class="nav-item nav-link">Fotos</a>
-                </div>
-                <a href="login.php" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Login</a>
-            </div>
-                <a href="cadastro.php" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Cadastro</a>
-            </div>
-            
+                </div>   
         </nav>
         
 
@@ -217,12 +198,8 @@ if (isset($_SESSION['usuario'])) {
                             </div>
                             <div class="col-sm-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="rounded-circle flex-shrink-0"
-                                        src="modelo%20de%20site%20pr%C3%A9-escolar%20kider_arquivos/user.jpg" alt=""
-                                        style="width: 45px; height: 45px;">
+                                    
                                     <div class="ms-3">
-                                        <h6 class="text-primary mb-1">Jhon Doe</h6>
-                                        <small>CEO &amp; Founder</small>
                                     </div>
                                 </div>
                             </div>

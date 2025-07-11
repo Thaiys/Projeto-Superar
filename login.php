@@ -54,36 +54,7 @@
             </button>
             
         </nav>
-
-        <!-- Formulário de Login -->
-        <div class="container">
-            <form action="valida_login.php" method="POST" class="form-login">
-                <h2>Login</h2>
-
-                <?php
-                if (isset($_GET['erro'])) {
-                    echo '<div class="alert alert-danger">Usuário ou senha inválidos.</div>';
-                }
-                ?>
-
-                <div class="mb-3">
-                    <label for="email" class="form-label">Email:</label>
-                    <input type="email" id="email" name="email" class="form-control" required>
-                </div>
-
-                <div class="mb-3">
-                    <label for="senha" class="form-label">Senha:</label>
-                    <input type="password" id="senha" name="senha" class="form-control" required>
-                </div>
-
-                <button type="submit" class="btn btn-primary w-100">Entrar</button>
-
-                <p class="text-center mt-3">
-                    Não tem conta? <a href="cadastro.php">Cadastre-se</a>
-                </p>
-            </form>
-        </div>
-
+        
         <footer class="bg-light text-center py-4 mt-5">
             <p class="mb-0">© 2025 Superar Reforço Escolar. Todos os direitos reservados.</p>
         </footer>
